@@ -3,7 +3,7 @@
 # ╚═══════════════════════════════════════════════════════════════════════════════╝
 
 # ─── GCP Project Settings ─────────────────────────────────────────────────────
-project-id       = "test-project-492810"   # <-- Your GCP project ID
+project-id       = "project-b072ca81-0008-42cb-81c"   # <-- Your GCP project ID
 region           = "us-central1"                     # <-- Your preferred region
 credentials-file = "./keys.json"                     # <-- Path to your service account JSON key
 
