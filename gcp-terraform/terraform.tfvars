@@ -15,7 +15,7 @@ vpc-cidr    = "10.0.0.0/16"
 # ─── GKE Cluster ──────────────────────────────────────────────────────────────
 cluster-name    = "travelbooking-gke"
 cluster-zone    = "us-central1-a"
-cluster-version = "1.31"
+cluster-version = "1.34"
 
 # ─── GKE Node Pool ────────────────────────────────────────────────────────────
 pool-name         = "travelbooking-nodepool"
