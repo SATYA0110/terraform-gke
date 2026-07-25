@@ -25,11 +25,11 @@ terraform {
 provider "google" {
   project     = var.project-id
   region      = var.region
-  credentials = var.credentials-file
+  
 }
 
 provider "google-beta" {
   project     = var.project-id
   region      = var.region
-  credentials = var.credentials-file
+  
 }
