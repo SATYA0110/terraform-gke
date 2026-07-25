@@ -17,7 +17,7 @@ terraform {
   # Command: gsutil mb -l <REGION> gs://<BUCKET_NAME>
   # Example: gsutil mb -l us-central1 gs://travelbooking-tf-state
   backend "gcs" {
-    bucket = "terraform-bucket94" # <-- Change this to your GCS bucket name
+    bucket = "terraform-bucket9415" # <-- Change this to your GCS bucket name
     prefix = "terraform/state"
   }
 }
